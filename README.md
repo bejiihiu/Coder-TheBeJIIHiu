@@ -112,11 +112,9 @@
 
 ---
 
-# 🖼️ Анимированная карточка персонажа
 <div align="center">
   <!-- Default avatar GIF used (you can replace with your own) -->
-  <img src="https://media.giphy.com/media/26xBIygOcC3bAWgD6/giphy.gif" alt="character-card" width="420" />
-  <p><sub>Dark avatar — replace with your own animated avatar (GIF/WebP)</sub></p>
+  <img src="https://i.pinimg.com/originals/47/9f/ae/479faed719a50746703da5a117689a26.gif" alt="Angel 🖤" width="420" />
 </div>
 
 ---
